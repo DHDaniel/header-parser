@@ -1,0 +1,23 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "A request header parser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DHDaniel/header-parser.git"
+  },
+  "author": "Daniel Hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DHDaniel/header-parser/issues"
+  },
+  "homepage": "https://github.com/DHDaniel/header-parser#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "useragent": "^2.1.9"
+  }
+}
